@@ -1,0 +1,4 @@
+﻿Developer_ID,Platform,Category,Time_to_Learn (m),Game_Dev_Time (m),Time_Sum,Time_NC,Time_LC,Time_TC,Cost,Challenge,Techniques_NC,Techniques_LC,Techniques_TC
+1,TheSandboxGameMaker,NC,44,523,567,1,null,null,1,1,"Drag-and-Drop,Template-Based,Event-Based,Asset-Marketplace",null,null
+1,RecRoom,NC,76,1134,1210,2,null,null,1,3,"Drag-and-Drop,Visual-Scripting,Template-Based,Event-Based,Asset-Marketplace",null,null
+1,RobloxStudio,LC,120,1627,1747,null,3,null,1,4,null,"Dynamic-Scripting,Visual/Textual-Scripting,Templates-Plugins, API-Integration",null
