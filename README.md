@@ -3,6 +3,10 @@
 
 ---
 
+You may view a short presentation of the application by using the following link: https://youtu.be/gszuoDm5GXA
+
+---
+
 ### 🌐 How to Use the Website
 Use the sidebar to select filters like type of platform, techniques and the analysis models.
 Visualizations will automatically update based on your selections.
