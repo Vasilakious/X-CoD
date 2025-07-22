@@ -62,4 +62,3 @@ Feel free to explore, analyze, and draw your own conclusions from the wealth of 
 The data from the questionnaire are limited to a small amount, hence why we created the synthetic data sheet. 
                 Ideally, we would like to gather more types of data at a bigger amount for a better understanding of the real world dynamics between them, such as team size, 
                 experience in years, developer frequency or anything else that could affect the time, cost and challenge of a game's development and analyze again for more accurate results.
-""")
